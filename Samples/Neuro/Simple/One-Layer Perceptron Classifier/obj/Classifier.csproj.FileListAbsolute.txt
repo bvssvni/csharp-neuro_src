@@ -1,0 +1,8 @@
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Simple\One-Layer Perceptron Classifier\bin\Classifier.exe
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Simple\One-Layer Perceptron Classifier\bin\AForge.Controls.dll
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Simple\One-Layer Perceptron Classifier\bin\AForge.dll
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Simple\One-Layer Perceptron Classifier\bin\AForge.Neuro.dll
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Simple\One-Layer Perceptron Classifier\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Simple\One-Layer Perceptron Classifier\obj\x86\Debug\Classifier.MainForm.resources
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Simple\One-Layer Perceptron Classifier\obj\x86\Debug\Classifier.csproj.GenerateResource.Cache
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Simple\One-Layer Perceptron Classifier\obj\x86\Debug\Classifier.exe

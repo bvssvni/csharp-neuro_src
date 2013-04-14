@@ -1,0 +1,8 @@
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Back Propagation\TimeSeries\bin\TimeSeries.exe
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Back Propagation\TimeSeries\bin\AForge.Controls.dll
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Back Propagation\TimeSeries\bin\AForge.dll
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Back Propagation\TimeSeries\bin\AForge.Neuro.dll
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Back Propagation\TimeSeries\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Back Propagation\TimeSeries\obj\x86\Debug\TimeSeries.MainForm.resources
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Back Propagation\TimeSeries\obj\x86\Debug\TimeSeries.csproj.GenerateResource.Cache
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Back Propagation\TimeSeries\obj\x86\Debug\TimeSeries.exe

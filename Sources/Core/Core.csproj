@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualStudioProject>
+  <CSHARP ProjectType="Local" ProductVersion="7.10.3077" SchemaVersion="2.0" ProjectGuid="{BFAF50DC-4942-46B8-8615-2A0B4CF08AD2}">
+    <Build>
+      <Settings ApplicationIcon="" AssemblyKeyContainerName="" AssemblyName="AForge" AssemblyOriginatorKeyFile="" DefaultClientScript="JScript" DefaultHTMLPageLayout="Grid" DefaultTargetSchema="IE50" DelaySign="false" OutputType="Library" PreBuildEvent="" PostBuildEvent="" RootNamespace="AForge" RunPostBuildEvent="OnBuildSuccess" StartupObject="">
+        <Config Name="Debug" AllowUnsafeBlocks="false" BaseAddress="285212672" CheckForOverflowUnderflow="false" ConfigurationOverrideFile="" DefineConstants="DEBUG;TRACE" DocumentationFile="AForge.Core.xml" DebugSymbols="true" FileAlignment="4096" IncrementalBuild="true" NoStdLib="false" NoWarn="" Optimize="false" OutputPath="bin\Debug\" RegisterForComInterop="false" RemoveIntegerChecks="false" TreatWarningsAsErrors="false" WarningLevel="4" />
+        <Config Name="Release" AllowUnsafeBlocks="false" BaseAddress="285212672" CheckForOverflowUnderflow="false" ConfigurationOverrideFile="" DefineConstants="TRACE" DocumentationFile="AForge.Core.xml" DebugSymbols="false" FileAlignment="4096" IncrementalBuild="false" NoStdLib="false" NoWarn="" Optimize="true" OutputPath="..\..\Release\" RegisterForComInterop="false" RemoveIntegerChecks="false" TreatWarningsAsErrors="false" WarningLevel="4" />
+      </Settings>
+      <References>
+        <Reference Name="System" AssemblyName="System" HintPath="D:\WINNT\Microsoft.NET\Framework\v1.0.3705\System.dll" />
+        <Reference Name="System.Data" AssemblyName="System.Data" HintPath="D:\WINNT\Microsoft.NET\Framework\v1.0.3705\System.Data.dll" />
+        <Reference Name="System.XML" AssemblyName="System.Xml" HintPath="D:\WINNT\Microsoft.NET\Framework\v1.0.3705\System.XML.dll" />
+      </References>
+    </Build>
+    <Files>
+      <Include>
+        <File RelPath="AssemblyInfo.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Copyright.txt" BuildAction="None" />
+        <File RelPath="DoubleRange.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="IntRange.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="PolishExpression.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Version.txt" BuildAction="None" />
+      </Include>
+    </Files>
+  </CSHARP>
+  <PropertyGroup xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EDDACAD0-013B-47C5-9489-56171728F026}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>AForge</RootNamespace>
+    <AssemblyName>AForge</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' " xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <WarningLevel>4</WarningLevel>
+    <RunWithWarnings>False</RunWithWarnings>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' " xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <DebugType>none</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>..\..\Release\</OutputPath>
+    <WarningLevel>4</WarningLevel>
+    <RunWithWarnings>False</RunWithWarnings>
+  </PropertyGroup>
+  <ItemGroup xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="DoubleRange.cs" />
+    <Compile Include="IntRange.cs" />
+    <Compile Include="PolishExpression.cs" />
+  </ItemGroup>
+  <ItemGroup xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <None Include="Copyright.txt" />
+    <None Include="Version.txt" />
+  </ItemGroup>
+  <ItemGroup xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+</VisualStudioProject>

@@ -1,0 +1,8 @@
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Simple\Delta Rule Learning\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Simple\Delta Rule Learning\obj\x86\Debug\Classifier.MainForm.resources
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Simple\Delta Rule Learning\obj\x86\Debug\Classifier.csproj.GenerateResource.Cache
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Simple\Delta Rule Learning\bin\Classifier.exe
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Simple\Delta Rule Learning\bin\aforge.controls.dll
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Simple\Delta Rule Learning\bin\AForge.dll
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Simple\Delta Rule Learning\bin\AForge.Neuro.dll
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Simple\Delta Rule Learning\obj\x86\Debug\Classifier.exe

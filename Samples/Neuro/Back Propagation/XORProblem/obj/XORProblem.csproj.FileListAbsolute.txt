@@ -1,0 +1,8 @@
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Back Propagation\XORProblem\bin\XORProblem.exe
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Back Propagation\XORProblem\bin\AForge.Controls.dll
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Back Propagation\XORProblem\bin\AForge.dll
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Back Propagation\XORProblem\bin\AForge.Neuro.dll
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Back Propagation\XORProblem\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Back Propagation\XORProblem\obj\x86\Debug\XORProblem.MainForm.resources
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Back Propagation\XORProblem\obj\x86\Debug\XORProblem.csproj.GenerateResource.Cache
+Z:\Desktop\USB\neuro_src\Samples\Neuro\Back Propagation\XORProblem\obj\x86\Debug\XORProblem.exe

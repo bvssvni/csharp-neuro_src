@@ -1,0 +1,8 @@
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\Color\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\Color\obj\x86\Debug\Color.MainForm.resources
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\Color\obj\x86\Debug\Color.csproj.GenerateResource.Cache
+Z:\Desktop\USB\neuro_src\Samples\Neuro\SOM\Color\bin\Color.exe
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\Color\obj\x86\Debug\Color.exe
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\Color\bin\Color.exe
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\Color\bin\AForge.dll
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\Color\bin\AForge.Neuro.dll

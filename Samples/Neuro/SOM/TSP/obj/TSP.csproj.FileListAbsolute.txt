@@ -1,0 +1,9 @@
+Z:\Desktop\USB\neuro_src\Samples\Neuro\SOM\TSP\bin\TSP.exe
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\TSP\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\TSP\obj\x86\Debug\TSP.MainForm.resources
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\TSP\obj\x86\Debug\TSP.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\TSP\obj\x86\Debug\TSP.exe
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\TSP\bin\TSP.exe
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\TSP\bin\AForge.Controls.dll
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\TSP\bin\AForge.dll
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\TSP\bin\AForge.Neuro.dll

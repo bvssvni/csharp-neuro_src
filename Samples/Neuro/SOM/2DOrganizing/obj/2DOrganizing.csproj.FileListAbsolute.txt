@@ -1,0 +1,7 @@
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\2DOrganizing\bin\2DOrganizing.exe
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\2DOrganizing\bin\AForge.dll
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\2DOrganizing\bin\AForge.Neuro.dll
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\2DOrganizing\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\2DOrganizing\obj\x86\Debug\SOMOrganizing.MainForm.resources
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\2DOrganizing\obj\x86\Debug\2DOrganizing.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\USB\neuro_src\Samples\Neuro\SOM\2DOrganizing\obj\x86\Debug\2DOrganizing.exe
