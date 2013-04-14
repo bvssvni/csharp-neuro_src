@@ -6,5 +6,7 @@ GLP3 license.
 
 Updated the projects to be opened by SharpDevelop.  
 
-![Original article](http://www.codeproject.com/Articles/16447/Neural-Networks-on-C)
+Original article:
+
+    http://www.codeproject.com/Articles/16447/Neural-Networks-on-C
 
